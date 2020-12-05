@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello! My name is Crystal! 
+
+Enjoying making my bedroom even more of a home base!
