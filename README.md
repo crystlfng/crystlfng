@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello! My name is Crystal! 
 
-Enjoying making my bedroom even more of a home base!
+Here for personal projects and hackathons!
