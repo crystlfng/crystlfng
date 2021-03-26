@@ -47,6 +47,8 @@
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
+---
+
 <p align="middle">
   <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=crystlfng&show_icons=true&theme=tokyonight"/>
   <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystlfng&layout=compact&theme=tokyonight"/>
