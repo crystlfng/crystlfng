@@ -19,6 +19,32 @@
   
 </p>
 
+- 🍄 Pursuing a **B.S. in Computer Science** at **University of California, Riverside**
+- 🍀 Currently a Production Intern [@WINCUCR](https://winc.cs.ucr.edu/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
+- 🌈 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+- 🐚 Check out my personal **[website](https://github.com/crystlfng)**
+- ✨ I enjoy exploring a learning new creative mediums: Currently diving into front-end dev and game dev
+
+### Languages and Technologies
+
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+![Java](http://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=ffffff)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=ffffff)
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+
+![Adobe Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat&logo=adobe-illustrator&logoColor=ffffff)
+
+![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
+
+
+
 <!--
 **crystlfng/crystlfng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is Crystal! 
 
-Here for personal projects and hackathons!
