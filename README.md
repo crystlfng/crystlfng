@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='banner.png' title='Crystals GitHub Banner' width='' alt='banner' />
 
 <!--
 **crystlfng/crystlfng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
