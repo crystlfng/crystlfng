@@ -19,11 +19,15 @@
   
 </p>
 
+---
+
 - 🍄 Pursuing a **B.S. in Computer Science** at **University of California, Riverside**
 - 🍀 Currently a Production Intern [@WINCUCR](https://winc.cs.ucr.edu/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
 - 🌈 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🐚 Check out my personal **[website](https://github.com/crystlfng)**
 - ✨ I enjoy exploring a learning new creative mediums: Currently diving into front-end dev and game dev
+
+---
 
 ### Languages and Technologies
 
@@ -43,7 +47,10 @@
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-
+<p align="middle">
+  <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=crystlfng&show_icons=true&theme=tokyonight"/>
+  <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystlfng&layout=compact&theme=tokyonight"/>
+</p>
 
 <!--
 **crystlfng/crystlfng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
