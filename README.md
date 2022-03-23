@@ -4,7 +4,7 @@
   <a href ="mailto:crystlfng@gmail.com">
     <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
-  <a href ="mailto:crystlfng@gmail.com">
+  <a href ="https://crystlfng.github.io/businesscard/">
     <img alt="Website" width =40px src="https://cdn-icons-png.flaticon.com/512/841/841364.png">
   </a>
   <a href ="https://www.linkedin.com/in/crystal-feng-23307219b">
@@ -21,7 +21,7 @@
 - 🍄 Pursuing a **B.S. in Computer Science** at **University of California, Riverside**
 - 🍀 Currently a Operations Lead [@RoseHack2022](https://rosehack.com/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
 - 🌈 Pronouns: [she/her](https://www.mypronouns.org/she-her)
-- 🐚 Check out my personal **[website](https://github.com/crystlfng)**
+- 🐚 Check out my personal **[website](https://crystlfng.github.io/businesscard/)**
 - ✨ I enjoy exploring a learning new creative mediums: Currently diving into front-end dev and game dev
 
 ---
