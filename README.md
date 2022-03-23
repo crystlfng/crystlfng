@@ -2,19 +2,16 @@
 
 <p align ="center">
   <a href ="mailto:crystlfng@gmail.com">
-    <img alt="Email" width =40px src="https://www.flaticon.com/svg/vstatic/svg/601/601248.svg?token=exp=1616762227~hmac=1a052288923b29de10fed21abab270f8">
+    <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
   <a href ="mailto:crystlfng@gmail.com">
-    <img alt="Website" width =40px src="https://www.flaticon.com/svg/vstatic/svg/1607/1607126.svg?token=exp=1616762149~hmac=e4481ae3c7d3fd74a4626a8654643987">
+    <img alt="Website" width =40px src="https://cdn-icons-png.flaticon.com/512/841/841364.png">
   </a>
   <a href ="https://www.linkedin.com/in/crystal-feng-23307219b">
-    <img alt="LinkedIn" width =40px src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1616761472~hmac=8f77334918ed7887dfb307ccd9f8fcc6">
-  </a>
-  <a href ="https://www.linkedin.com/in/crystal-feng-23307219b">
-    <img alt="Instagram" width =40px src="https://www.flaticon.com/svg/vstatic/svg/725/725278.svg?token=exp=1616761579~hmac=6f8ede3844321078bf6162abc8418bdf">
+    <img alt="LinkedIn" width =40px src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1648066406~hmac=c6972c894ba48937786a5735f3eb33b6">
   </a>
    <a href ="https://open.spotify.com/show/7fCem3M3voES6Ceqk9wNcj?si=4Y6cprNeRnCdQTxj9ofn9w">
-    <img alt="Podcast" width =40px src="https://www.flaticon.com/svg/vstatic/svg/725/725281.svg?token=exp=1616762047~hmac=a865062b69d8ddb859ff30d957fa11bc">
+    <img alt="Podcast" width =40px src="https://cdn-icons-png.flaticon.com/512/831/831299.png">
   </a>
   
 </p>
@@ -22,7 +19,7 @@
 ---
 
 - 🍄 Pursuing a **B.S. in Computer Science** at **University of California, Riverside**
-- 🍀 Currently a Production Intern [@WINCUCR](https://winc.cs.ucr.edu/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
+- 🍀 Currently a Operations Lead [@RoseHack2022](https://rosehack.com/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
 - 🌈 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🐚 Check out my personal **[website](https://github.com/crystlfng)**
 - ✨ I enjoy exploring a learning new creative mediums: Currently diving into front-end dev and game dev
