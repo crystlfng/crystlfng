@@ -1,4 +1,4 @@
-<img src='banner.png' title='Crystals GitHub Banner' width='' alt='banner' />
+<!-- <img src='banner.png' title='Crystals GitHub Banner' width='' alt='banner' /> -->
 
 <p align ="center">
   <a href ="mailto:crystlfng@gmail.com">
