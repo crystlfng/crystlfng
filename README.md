@@ -18,8 +18,8 @@
 
 ---
 
-- 🍄 Pursuing a **B.S. in Computer Science** at **University of California, Riverside**
-- 🍀 Currently a Operations Lead [@RoseHack2022](https://rosehack.com/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
+- 🍄 Newly Graduated with a **B.S. in Computer Science** at **University of California, Riverside**
+- 🍀 Former a Operations Lead [@RoseHack2022](https://rosehack.com/) and WebMaster [@GameSpawn](https://gamespawn.github.io/)
 - 🌈 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - 🐚 Check out my personal **[website](https://crystlfng.github.io/businesscard/)**
 - ✨ I enjoy exploring a learning new creative mediums: Currently diving into front-end dev and game dev
