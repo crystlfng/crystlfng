@@ -8,7 +8,7 @@
     <img alt="Website" width =40px src="https://cdn-icons-png.flaticon.com/512/841/841364.png">
   </a>
   <a href ="https://www.linkedin.com/in/crystal-feng-23307219b">
-    <img alt="LinkedIn" width =40px src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1648066406~hmac=c6972c894ba48937786a5735f3eb33b6">
+    <img alt="LinkedIn" width =40px src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png">
   </a>
    <a href ="https://open.spotify.com/show/7fCem3M3voES6Ceqk9wNcj?si=4Y6cprNeRnCdQTxj9ofn9w">
     <img alt="Podcast" width =40px src="https://cdn-icons-png.flaticon.com/512/831/831299.png">
